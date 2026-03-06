@@ -4,7 +4,7 @@
 
 An interactive customer churn analysis dashboard built using Microsoft Power BI to analyze telecom customer behavior, identify churn patterns, and measure revenue loss.The dashboard provides insights into customer demographics, service usage, contract types, and geographic churn trends to help businesses improve customer retention strategies.
 
-3. Objectives
+2. Objectives
 
 Identify customer churn trends
 

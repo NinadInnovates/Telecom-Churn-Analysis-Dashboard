@@ -118,6 +118,6 @@ Focus retention campaigns in high-churn regions
 
 8. Screenshots / Demo
 
-Dashboard Preview :-
+Dashboard Preview :- (https://github.com/NinadInnovates/Telecom-Churn-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
